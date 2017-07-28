@@ -1,8 +1,8 @@
 {
-    "name": "classes/HelloWorld",
+    "name": "classes/hello-world",
     "autoload": {
         "psr-0" : {
-            "classes\\HelloWorld" : "src"
+            "classes\\hello-world" : "src"
         }
     }
 }
