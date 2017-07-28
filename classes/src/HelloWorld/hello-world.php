@@ -2,7 +2,7 @@
 
 namespace classes\hello-world;
 
-class HelloWorld
+class hello-world
 {
 	public function sayHello()
 	{
